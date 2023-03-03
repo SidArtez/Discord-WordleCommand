@@ -1,10 +1,10 @@
 # Discord-WordleCommand
 A simple wordle command 
 
-# How do you install this?
+# How do you install wordle?
 Do: npm i discord-gamecord
 
-# What language is this?
+# What language is the code?
 this is an discord.js (JavaScript) command for your discord bot.
 
 # Is this an prefix command?
