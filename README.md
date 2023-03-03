@@ -1,8 +1,10 @@
 # Discord-WordleCommand
 A simple wordle command 
 
-# How do you install wordle?
-Do: npm i discord-gamecord
+# How do you install gamecord?
+Do: npm i discord-gamecord 
+
+This imports the gamecord for discord so it makes it easier
 
 # What language is the code?
 this is an discord.js (JavaScript) command for your discord bot.
